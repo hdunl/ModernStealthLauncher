@@ -1,6 +1,6 @@
 # ModernStealthLauncher
 
-MonoStealthLauncher is designed to inject managed assemblies into Mono-based processes. Currently, it is mainly built around **R.E.P.O.**, an indie C# Unity game, to load [DARK](https://github.com/peeberpoober/beta-d.a.r.k.-cheat) but may be extended to other games & platforms. The project is split into a native DLL injector (monoloader.dll) and a modern WPF GUI that manages releases and injection.
+ModernStealthLauncher (aka. MonoStealthLauncher) is designed to inject managed assemblies into Mono-based processes. Currently, it is mainly built around **R.E.P.O.**, an indie C# Unity game, to load [DARK](https://github.com/peeberpoober/beta-d.a.r.k.-cheat) but may be extended to other games & platforms. The project is split into a native DLL injector (monoloader.dll) and a modern WPF GUI that manages releases and injection.
 
 ---
 
