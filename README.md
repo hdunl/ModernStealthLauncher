@@ -13,7 +13,7 @@ ModernStealthLauncher (aka. MonoStealthLauncher) is designed to inject managed a
   Fetches release information from GitHub (Stable, Beta, Pre-release channels) and downloads the latest selected DLL.
 
 - **Configurable Injection Parameters**  
-  Supports user-defined DLL name, namespace, class, and method for injection via a temporary configuration file.
+  Supports user-defined namespace, class, and method for injection via a temporary configuration file.
 
 - **Robust Logging & Status Reporting**  
   Provides detailed logging (INFO, DEBUG, SUCCESS, WARNING, ERROR) with real-time feedback in the GUI.
