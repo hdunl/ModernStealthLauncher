@@ -1,4 +1,4 @@
-  ![UI](https://i.imgur.com/BG2wQzy.png))
+  ![UI](https://i.imgur.com/BG2wQzy.png)
 
 # ModernStealthLauncher
 
